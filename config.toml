@@ -56,7 +56,7 @@ theme = "adritian-free-hugo-theme"
 
 [params]
 
-  sections = ["showcase", "about", "education",   "professional", "client-and-work", "testimonial"]
+  sections = ["showcase", "about", "education","experience", "client-and-work", "testimonial"]
 
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
   homepageExperienceCount = 6
