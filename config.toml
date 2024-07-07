@@ -3,7 +3,7 @@ theme = "adritian-free-hugo-theme"
 
 [module]
   [[module.imports]]
-    path = "https://github.com/DarkishLocket10/yash2025theme/yash2025theme"
+    path = "https://github.com/DarkishLocket10/adritian-free-hugo-theme"
 
 
 # Plugins
