@@ -1,9 +1,9 @@
 baseURL = "https://www.darkishlocket10.me"
-theme = "adritian-free-hugo-theme"
+theme = "raditian-free-hugo-theme"
 
 [module]
   [[module.imports]]
-    path = "github.com/zetxek/adritian-free-hugo-theme" 
+    path = "https://github.com/DarkishLocket10/yash2025theme/yash2025theme"
 
 
 # Plugins
