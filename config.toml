@@ -1,5 +1,5 @@
 baseURL = "https://www.darkishlocket10.me"
-theme = "raditian-free-hugo-theme"
+theme = "adritian-free-hugo-theme"
 
 [module]
   [[module.imports]]
